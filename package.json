@@ -19,5 +19,8 @@
     "pg": "^7.4.3",
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
   }
 }
